@@ -36,4 +36,6 @@ app.import('vendor/fontello/font/fontello.woff', {
 
 app.import('bower_components/picnic/releases/v2.min.css');
 
+app.import('bower_components/moment/moment.js');
+
 module.exports = app.toTree();
